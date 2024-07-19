@@ -1,0 +1,6 @@
+/bin
+/obj
+Web.Config
+/Backup
+Properties/PublishProfiles
+Properties/ServiceDependencies
